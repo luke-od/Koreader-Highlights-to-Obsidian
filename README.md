@@ -7,7 +7,7 @@ This R script enables capturing of highlights from your books into notes in obsi
 - This does not do automatic syncing, but you manually run this code whenever you want.
 
 **SetUp:**
-If you are new to this, you will have to install R and RStudio to run this code. 
+If you are new to this, you will have to install R and RStudio to run this code.
 _Required R Packages:_
 - stringr
 run the line ``install.packages("stringr")`` when running the script for the first time. This line is not required after that
