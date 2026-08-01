@@ -10,7 +10,8 @@ This R script enables capturing of highlights from your books into notes in obsi
 If you are new to this, you will have to install R and RStudio to run this code.
 
 _Required R Packages:_
-- ``stringr``. Run the line ``install.packages("stringr")`` when running the script for the first time. This line is not required after that
+- ``stringr``. Run the line ``install.packages("stringr")`` when running the script for the first time. This line is not required after that.
+
 _Steps:_
 1. Set your books folder. This is wherever you are storing your books. You can plug your eReader into your computer and set it to ``books_folder  <- "D:/Books"`` for example
 2. Set your Obsidian notes folder. This is wherever you want these notes to show up. For example, my Obsidian Vault is called Obsidian Vault and I have a subfolder for all of these notes called Books ``obsidian_books <- "C:/Users/Admin/OneDrive/Documents/Obsidian Vault/Books"``
