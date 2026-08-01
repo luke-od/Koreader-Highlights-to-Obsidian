@@ -6,7 +6,9 @@ This R script enables capturing of highlights from your books into notes in obsi
 - The highlights are each on a new line, separated by chapter and labelled page number, colour and timestamped. Any notes in the book will also be imported.
 - This does not do automatic syncing, but you manually run this code whenever you want.
 
+
 **SetUp:**
+
 If you are new to this, you will have to install R and RStudio to run this code.
 
 _Required R Packages:_
