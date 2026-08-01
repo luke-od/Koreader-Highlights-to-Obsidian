@@ -18,5 +18,5 @@ _Required R Packages:_
 _Steps:_
 1. Set your books folder. This is wherever you are storing your books. You can plug your eReader into your computer and set it to ``books_folder  <- "D:/Books"`` for example
 2. Set your Obsidian notes folder. This is wherever you want these notes to show up. For example, my Obsidian Vault is called Obsidian Vault and I have a subfolder for all of these notes called Books ``obsidian_books <- "C:/Users/Admin/OneDrive/Documents/Obsidian Vault/Books"``
-3. Check what book formats you use. The line ``pattern = "metadata\\.(epub|pdf|mobi)\\.lua$",`` sets which book file types it searches for.
+3. Check what book formats you use. The line ``pattern = "metadata\\.(epub|pdf|mobi)\\.lua$",`` sets which book file types it searches for (epub and pdf should cover most). Add more within the brackets with a | in between them
 4. Run the entire script of code
